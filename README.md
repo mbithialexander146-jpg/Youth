@@ -1,1 +1,16 @@
 # Youth
+---
+title: "About"
+---
+
+This is a project of Youth unemployment percent rates over the past years.
+
+It aims at examining the rates by;
+
+-   Gender
+
+-   Area type
+
+-   Education level
+
+-   Education attedance
